@@ -1,0 +1,4 @@
+huggingface_hub
+#caikit_nlp
+boto3
+botocore
